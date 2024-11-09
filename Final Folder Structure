@@ -1,0 +1,12 @@
+/my-github-pages-project
+  /index.html
+  /invoices.html
+  /create-invoice.html
+  /contact.html
+  /assets
+    /css
+      /styles.css
+    /images
+      /logo.png
+  /scripts
+    /main.js
